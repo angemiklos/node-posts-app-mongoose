@@ -1,0 +1,17 @@
+{
+  "name": "posts-app-mongoose",
+  "version": "1.0.0",
+  "description": "creating blog api using mLab and Heroku",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha --exit",
+    "start": "node server.js"
+  },
+  "author": "Angela Miklos",
+  "license": "ISC"
+}
