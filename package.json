@@ -1,5 +1,5 @@
 {
-  "name": "node-posts-app-mongoose-mocha",
+  "name": "node-posts-app-mongoose",
   "version": "0.0.1",
   "description": "Blogging app to demo mongoose integ testing",
   "repository": "https://github.com/angemiklos/node-posts-app-mongoose",
